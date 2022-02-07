@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Github Repo Size](https://img.shields.io/github/repo-size/novicexp/cipher-encryption-decryption)](https://github.com/novicexp/cipher-encryption-decryption)
+[![Github Repo Size](https://img.shields.io/github/repo-size/harshraj8843/cipher-encryption-decryption)](https://github.com/harshraj8843/cipher-encryption-decryption)
 
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/novicexp/cipher-encryption-decryption) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/novicexp/cipher-encryption-decryption)
+![GitHub Code Size](https://img.shields.io/github/languages/code-size/harshraj8843/cipher-encryption-decryption) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/harshraj8843/cipher-encryption-decryption)
 
 </div>
 
@@ -26,7 +26,7 @@ A simple cipher encryption and decryption tool in `Python` (*with advance decryp
 
 - clone project
   ```
-  git clone https://github.com/novicexp/cipher-encryption-decryption
+  git clone https://github.com/harshraj8843/cipher-encryption-decryption
   ```
   ```
   cd cipher-encryption-decryption/
